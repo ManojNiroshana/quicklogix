@@ -18,7 +18,8 @@ Route::get('/home', 'DashboardController@dashboardAnalytics');
 
 // Route Dashboards
 Route::get('/dashboard-analytics', 'DashboardController@dashboardAnalytics');
-Route::get('/dashboard-ecommerce', 'DashboardController@dashboardEcommerce');
+Route::resource('/data-list-view','DataListController');
+Route::resource('/manage-system-users','SystemUserController');
 
 
 // Route Apps
@@ -38,7 +39,7 @@ Route::get('/app-user-view', 'UserPagesController@user_view');
 Route::get('/app-user-edit', 'UserPagesController@user_edit');
 
 // Route Data List
-Route::resource('/data-list-view','DataListController');
+
 Route::resource('/data-thumb-view', 'DataThumbController');
 
 

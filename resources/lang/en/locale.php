@@ -2,6 +2,8 @@
 
 return [
     "Dashboard" => "Dashboard",
+    "Manage Suppliers" => "Manage Suppliers",
+    "Manage Users" => "Manage Users",
     "Analytics" => "Analytics",
     "eCommerce" => "eCommerce",
     "Apps" => "Apps",

@@ -9,120 +9,20 @@
     },
     {
       "url": "",
-      "navheader": "Apps",
+      "navheader": "Manage",
       "icon": ""
     },
     {
-      "url": "app-email",
-      "name": "Email",
-      "icon": "feather icon-mail",
-      "i18n": "nav.app_email"
-    },
-    {
-      "url": "app-chat",
-      "name": "Chat",
-      "icon": "feather icon-message-square",
-      "i18n": "nav.app_chat"
-    },
-    {
-      "url": "app-todo",
-      "name": "Todo",
-      "icon": "feather icon-check-square",
-      "i18n": "nav.app_todo"
-    },
-    {
-      "url": "app-calender",
-      "name": "Calender",
-      "icon": "feather icon-calendar",
-      "i18n": "nav.app_calender"
-    },
-    {
-      "url": "app-file-manager",
-      "name": "File Manager",
-      "icon": "feather icon-save",
-      "i18n": "nav.app_calender"
-    },
-    {
-      "url": "",
-      "name": "Ecommerce",
-      "icon": "feather icon-shopping-cart",
-      "submenu": [
-        {
-          "url": "app-ecommerce-shop",
-          "name": "Shop",
-          "icon": "feather icon-circle",
-          "i18n": "nav.app_ecommerce_shop"
-        },
-        {
-          "url": "app-ecommerce-details",
-          "name": "Details",
-          "icon": "feather icon-circle",
-          "i18n": "nav.app_ecommerce_details"
-        },
-        {
-          "url": "app-ecommerce-wishlist",
-          "name": "Wish List",
-          "icon": "feather icon-circle",
-          "i18n": "nav.app_ecommerce_wishlist"
-        },
-        {
-          "url": "app-ecommerce-checkout",
-          "name": "Checkout",
-          "icon": "feather icon-circle",
-          "i18n": "nav.app_ecommerce_checkout"
-        }
-      ]
-    },
-    {
-      "url": "",
-      "name": "User",
-      "icon": "feather icon-unlock",
-      "submenu": [
-        {
-          "url": "app-user-list",
-          "name": "List",
-          "icon": "feather icon-circle",
-          "i18n": "nav.app_user_list"
-        },
-        {
-          "url": "app-user-view",
-          "name": "View",
-          "icon": "feather icon-circle",
-          "i18n": "nav.app_user_view"
-        },
-        {
-          "url": "app-user-edit",
-          "name": "Edit",
-          "icon": "feather icon-circle",
-          "i18n": "nav.app_user_edit"
-        }
-      ]
-    },
-    {
-      "url": "",
-      "navheader": "UI Elements",
-      "icon": ""
-    },
-    {
-      "url": "",
-      "name": "Data List",
-      "badge": "New",
+      "url": "data-list-view",
+      "name": "Manage Suppliers",
       "badgeClass": "badge badge-primary badge-pill float-right mr-2",
-      "icon": "feather icon-list",
-      "submenu": [
-        {
-          "url": "data-list-view",
-          "name": "List View",
-          "icon": "feather icon-circle",
-          "i18n": "nav.data_list_view"
-        },
-        {
-          "url": "data-thumb-view",
-          "name": "Thumb View",
-          "icon": "feather icon-circle",
-          "i18n": "nav.data_thumb_view"
-        }
-      ]
+      "icon": "feather icon-list"
+    },
+    {
+      "url": "manage-system-users",
+      "name": "Manage Users",
+      "badgeClass": "badge badge-primary badge-pill float-right mr-2",
+      "icon": "feather icon-list"
     },
     {
       "url": "",
