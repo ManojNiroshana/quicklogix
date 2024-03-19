@@ -4,6 +4,7 @@ return [
     "Dashboard" => "Dashboard",
     "Manage Suppliers" => "Manage Suppliers",
     "Manage Users" => "Manage Users",
+    "Request Pickup" => "Request Pickup",
     "Analytics" => "Analytics",
     "eCommerce" => "eCommerce",
     "Apps" => "Apps",

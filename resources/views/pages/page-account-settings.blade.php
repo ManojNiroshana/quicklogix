@@ -48,20 +48,6 @@
               Social links
             </a>
           </li>
-          <li class="nav-item">
-            <a class="nav-link d-flex py-75" id="account-pill-connections" data-toggle="pill"
-              href="#account-vertical-connections" aria-expanded="false">
-              <i class="feather icon-feather mr-50 font-medium-3"></i>
-              Connections
-            </a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link d-flex py-75" id="account-pill-notifications" data-toggle="pill"
-              href="#account-vertical-notifications" aria-expanded="false">
-              <i class="feather icon-message-circle mr-50 font-medium-3"></i>
-              Notifications
-            </a>
-          </li>
         </ul>
       </div>
       <!-- right content section -->
